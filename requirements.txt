@@ -14,7 +14,7 @@ MarkupSafe==1.0
 pkg-resources==0.0.0
 pytz==2018.4
 requests==2.18.4
-sanic==0.7.0
+sanic==20.12.6
 tornado==5.0.2
 ujson==1.35
 urllib3==1.22
