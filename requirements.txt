@@ -16,7 +16,7 @@ pytz==2018.4
 requests==2.18.4
 sanic==0.7.0
 tornado==5.0.2
-ujson==1.35
+ujson==5.2.0
 urllib3==1.22
 uvloop==0.10.1
 websockets==5.0.1
